@@ -3,7 +3,7 @@
 <dblp>
     <book mdate="2007-06-01" key="books/infix/Makoui2007">
         <author>Mazeyar E. Makoui</author>
-        <title>Anfrageoptimierung in objektrelationalen Datenbanken durch kostenbedingte Termersetzungen</title>
+        <title>Anfrageoptimierung in objektrelationalen Datenbanken durch kostenbedingte Termersetzungen2</title>
         <volume>100</volume>
         <isbn>978-3-89838-500-8</isbn>
         <year>2007</year>
@@ -12,10 +12,11 @@
     </book>
     <book mdate="2007-06-01" key="books/infix/Makoui2007">
         <author>Mazeyar E. Makoui</author>
+        <author>Yongliang Zhu</author>
         <title>Anfrageoptimierung in objektrelationalen Datenbanken durch kostenbedingte Termersetzungen</title>
         <volume>100</volume>
         <isbn>978-3-89838-500-8</isbn>
-        <year>2007</year>
+        <year>2008</year>
         <publisher>Aka Akademische Verlagsgesellschaft Aka GmbH, Berlin</publisher>
         <series href="db/series/disdbis/index.html">DISDBIS</series>
     </book>
@@ -33,6 +34,7 @@
     <article mdate="2008-01-15" key="journals/imamci/ZhuP07">
         <author>Yongliang Zhu</author>
         <author>Prabhakar R. Pagilla</author>
+        <author>Mazeyar E. Makoui</author>
         <title>Decentralized output feedback control of a class of large-scale interconnected systems.</title>
         <pages>57-69</pages>
         <year>2007</year>
