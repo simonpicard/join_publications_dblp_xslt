@@ -30,7 +30,7 @@ ___a-tree/first-letter-of-lastname /lastname.firstname.html___
 For example, for the author “David Maier”, the file a-tree/m/Maier.David.html should be created, whereas for “Michael Ley”, the file a-tree/l/Ley.Michael.html should be created. Blanks should be mapped to underscores; all other characters which are not alphanumeric should be mapped to ‘=’. This avoids illegal filenames/URLs.
 The contents of the HTML file for person P should consist of the following parts.
 1. The person’s name in a `h1` tag.
-1. Followed by a table of all of the person’s publications, grouped per year (sorted descending on year and subsequently on publication title). Apart from the rows that indicate the beginning of a new year, each row in this table should be of the form `publication number, link to online version, publication reference`
+1. Followed by a table of all of the person’s publications, grouped per year (sorted descending on year and subsequently on publication title). Apart from the rows that indicate the beginning of a new year, each row in this table should be of the form `publication number`, `link to online version`, `publication reference`
 1. Followed by “Co-author index” in a `h2` tag.
 1. Followed by a table listing all other persons with whom P has jointly published. For each such co-author, there should be a row describing the pair (_co-author-name_, _list-of-references-to-joint-publications_). Each reference in this list should link to the corresponding publication in the publication table. The table should be sorted by co-author lastname.
 
