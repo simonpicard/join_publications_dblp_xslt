@@ -1,4 +1,4 @@
-# publications_dblp_xslt
+# publications-dblp-xslt
 
 ## Introduciton
 
