@@ -1,6 +1,6 @@
 # publications-dblp-xslt
 
-## Introduciton
+## Introduction
 
 DBLP is an online bibliographical database for computer science publications containing around 1.6 million references. Its content is publically available in XML format. Since this content is more than 800 MB a small excerpt of this data will be used for this project.
 
