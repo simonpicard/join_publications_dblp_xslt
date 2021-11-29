@@ -1,5 +1,14 @@
 # publications-dblp-xslt
 
+## Quickstart
+
+```
+git clone git@github.com:simonpicard/publications-dblp-xslt.git
+cd publications-dblp-xslt
+java -jar xslt-tool.jar src/generate-author-pages.xslt data/dblp-exceprt.xml a-tree
+```
+Explore results in folder `/a-tree`.
+
 ## Introduction
 
 DBLP is an online bibliographical database for computer science publications containing around 1.6 million references. Its content is publically available in XML format. Since this content is more than 800 MB a small excerpt of this data will be used for this project.
@@ -44,4 +53,4 @@ On test data only:
 
 `java -jar xslt-tool.jar src/generate-author-pages.xslt data/dblp-test.xml a-tree`
 
-Explore results in folder `a-tree`.
+Explore results in folder `/a-tree`.
